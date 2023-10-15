@@ -1,0 +1,8 @@
+checkpoints/
+core/
+monodepth/
+third_party/
+data/
+results/
+cub-1.10.0/
+__pycache__/
