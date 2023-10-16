@@ -20,7 +20,7 @@ depth maps with higher quality.
 **Consistent Video Despth Estimation**
 <br/>
 [Libing Zeng](https://libingzeng.github.io/), 
-[Nima Khademi Kalantari](http://faculty.cs.tamu.edu/nimak/), 
+[Nima Khademi Kalantari](http://faculty.cs.tamu.edu/nimak/)
 <br/>
 In Computer Graphics Forum (Proceedings of Eurographics 2023).
 
