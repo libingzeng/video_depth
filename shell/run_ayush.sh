@@ -1,7 +1,7 @@
 #!/bin/sh
 CUDA_VISIBLE_DEVICES=3 python3 main.py \
---video_file /data2/libingzeng/view_synthesis/consistent_depth0/data/videos/ayush.mp4 \
---path /data2/libingzeng/view_synthesis/consistent_depth0/results/ayush_test/   \
+--video_file data/videos/ayush.mp4 \
+--path results/ayush_test/   \
 --camera_params "1671.770118, 540, 960" \
 --camera_model "SIMPLE_PINHOLE" \
 --loss_case 231 \
