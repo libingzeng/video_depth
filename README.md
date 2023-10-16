@@ -17,7 +17,7 @@ on various scenes both visually and numerically. Our approach is on average 2.5X
 depth maps with higher quality.
 <br/>
 
-**Consistent Video Despth Estimation**
+**Test-Time Optimization for Video Depth Estimation Using Pseudo Reference Depth**
 <br/>
 [Libing Zeng](https://libingzeng.github.io/), 
 [Nima Khademi Kalantari](http://faculty.cs.tamu.edu/nimak/)
