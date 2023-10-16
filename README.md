@@ -1,4 +1,4 @@
- # [Computer Graphics Forum (Proceedings of Eurographics 2023)] Test-Time Optimization for Video Depth Estimation Using Pseudo Reference Depth
+ # Test-Time Optimization for Video Depth Estimation Using Pseudo Reference Depth
  
  ### [[Paper](https://libingzeng.github.io/projects/depth/depth/depth_cgf.pdf)] [[Project Website](https://libingzeng.github.io/projects/depth/depth.html)]
 
